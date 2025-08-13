@@ -1,3 +1,4 @@
+```yaml
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -9,10 +10,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Abdullah Al Nafees / Civil Engineering"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Abdullah Al Nafees"
+description              : &description "Civil engineering researcher focused on intelligent transportation systems, machine learning, travel behavior, and safety."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,23 +24,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Abdullah Al Nafees"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "BSc in Civil Engineering (CGPA 3.80/4.00); research assistant and content creator working on intelligent transportation systems, machine learning for mobility, and travel behavior."
+  location         : "Sylhet, Bangladesh"
+  employer         : "Sylhet Engineering College (SEC), Shahjalal University of Science and Technology"
+  uri              : "https://www.bdeshi-lab.org/team/abdullah-al-nafees"
+  email            : "2019333542@student.sec.ac.bd" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=9Z3zaQ0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "nafeesopi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "nafeessec"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -75,7 +76,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "AmiNafees"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -355,3 +356,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+```
